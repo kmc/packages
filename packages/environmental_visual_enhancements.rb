@@ -1,4 +1,4 @@
-class EnvironmentalVisualEnhancementsHighRes < Kosmos::Package
+class EnvironmentalVisualEnhancementsHighRes < Kmc::Package
   title 'Environmental Visual Enhancements - High Resolution'
   aliases 'environmental visual enhancements - high res',
           'environmental visual enhancements'
@@ -10,7 +10,7 @@ class EnvironmentalVisualEnhancementsHighRes < Kosmos::Package
   end
 end
 
-class EnvironmentalVisualEnhancementsLowRes < Kosmos::Package
+class EnvironmentalVisualEnhancementsLowRes < Kmc::Package
   title 'Environmental Visual Enhancements - Low Resolution'
   aliases 'environmental visual enhancements - low res'
 

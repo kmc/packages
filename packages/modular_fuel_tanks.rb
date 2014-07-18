@@ -1,4 +1,4 @@
-class ModularFuelTanks < Kosmos::Package
+class ModularFuelTanks < Kmc::Package
   title 'Modular Fuel Tanks'
   url 'http://taniwha.org/~bill/ModularFuelTanks_v5.0.3.zip'
   prerequisites 'module-manager'

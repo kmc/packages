@@ -1,4 +1,4 @@
-class ScienceAlert < Kosmos::Package
+class ScienceAlert < Kmc::Package
   title 'ScienceAlert'
   aliases 'science alert'
   url 'https://bitbucket.org/xEvilReeperx/ksp_sciencealert/downloads/KSP-23.5-ScienceAlert-release-1.5.zip'

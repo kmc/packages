@@ -1,4 +1,4 @@
-class TweakableEverything < Kosmos::Package
+class TweakableEverything < Kmc::Package
   title 'Tweakable Everything'
   url 'http://ksp.hawkbats.com/TweakableEverything/TweakableEverything-1-2.zip'
 

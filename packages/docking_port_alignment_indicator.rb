@@ -1,4 +1,4 @@
-class DockingPortAlignmentIndicator < Kosmos::Package
+class DockingPortAlignmentIndicator < Kmc::Package
   title 'Docking Port Alignment Indicator'
   url 'http://kerbal.curseforge.com/plugins/220299-docking-port-alignment-indicator-version-3-1'
 

@@ -1,4 +1,4 @@
-class EditorExtensions < Kosmos::Package
+class EditorExtensions < Kmc::Package
   title 'Editor Extensions'
   url 'https://github.com/MachXXV/EditorExtensions/blob/master/Releases/EditorExtensions_v1.1.zip?raw=true'
 

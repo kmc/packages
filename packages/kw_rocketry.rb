@@ -1,4 +1,4 @@
-class KWRocketry < Kosmos::Package
+class KWRocketry < Kmc::Package
   title 'KW Rocketry'
   aliases 'KW'
   

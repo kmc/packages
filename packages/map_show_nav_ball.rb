@@ -1,4 +1,4 @@
-class MapShowNavBall < Kosmos::Package
+class MapShowNavBall < Kmc::Package
   title 'MapShowNavBall'
   aliases 'Map Show Nav Ball'
   url 'http://kerbal.curseforge.com/ksp-mods/221011-atmospheric-sound-enhancement'

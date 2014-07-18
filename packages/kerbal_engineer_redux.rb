@@ -1,4 +1,4 @@
-class KerbalEngineerRedux < Kosmos::Package
+class KerbalEngineerRedux < Kmc::Package
   title 'Kerbal Engineer Redux'
   aliases 'ker'
   url 'http://kerbal.curseforge.com/plugins/220285-kerbal-engineer-redux'
@@ -8,7 +8,7 @@ class KerbalEngineerRedux < Kosmos::Package
   end
 end
 
-class KerbalEngineerReduxPatch < Kosmos::Package
+class KerbalEngineerReduxPatch < Kmc::Package
   title 'Kerbal Engineer Redux - Patch for KSP 0.23.5'
   aliases 'ker patch', 'kerbal engineer redux patch'
   url 'https://www.dropbox.com/s/2b1d225vunp55ko/kerdlls.zip'

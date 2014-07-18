@@ -1,4 +1,4 @@
-class Chatterer < Kosmos::Package
+class Chatterer < Kmc::Package
   title 'Chatterer'
   url 'https://www.dropbox.com/s/y2ccc5ozjf13cds/Chatterer_0.5.9.3.zip'
 

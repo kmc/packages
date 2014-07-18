@@ -1,4 +1,4 @@
-class ServiceCompartmentTubes < Kosmos::Package
+class ServiceCompartmentTubes < Kmc::Package
   title '6S Service Compartment Tubes'
   aliases 'Service Compartment Tubes'
   url 'http://kerbal.curseforge.com/parts/220359-s-service-compartment-tubes'

@@ -1,4 +1,4 @@
-class DarkMultiPlayer < Kosmos::Package
+class DarkMultiPlayer < Kmc::Package
   title 'DarkMultiPlayer'
   aliases 'dark multi player'
   url 'http://kerbal.curseforge.com/ksp-mods/221242-darkmultiplayer-client'

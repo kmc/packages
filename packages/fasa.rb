@@ -1,4 +1,4 @@
-class FASA < Kosmos::Package
+class FASA < Kmc::Package
   title 'FASA'
   url 'http://kerbal.curseforge.com/ksp-mods/220632-fasa'
 
@@ -8,7 +8,7 @@ class FASA < Kosmos::Package
   end
 end
 
-class FASAGeminiAlternateIVA < Kosmos::Package
+class FASAGeminiAlternateIVA < Kmc::Package
   title 'FASA Gemini Alternate IVA'
   url 'https://www.dropbox.com/s/kd657bp536dtw3x/MOARdV-FASAGemini-1.0.zip'
 

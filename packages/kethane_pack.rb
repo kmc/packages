@@ -1,4 +1,4 @@
-class KethanePack < Kosmos::Package
+class KethanePack < Kmc::Package
   title 'Kethane Pack'
   aliases 'kethane'
   url 'https://nabaal.net/files/kethane/Kethane-0.8.6.zip'

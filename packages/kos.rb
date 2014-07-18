@@ -1,4 +1,4 @@
-class KOS < Kosmos::Package
+class KOS < Kmc::Package
   title 'kOS'
   url 'http://kerbal.curseforge.com/ksp-mods/220265-kos-scriptable-autopilot-system'
 

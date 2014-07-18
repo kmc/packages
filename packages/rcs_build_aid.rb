@@ -1,4 +1,4 @@
-class RcsBuildAid < Kosmos::Package
+class RcsBuildAid < Kmc::Package
   title 'RCS Build Aid'
   url 'http://kerbal.curseforge.com/ksp-mods/220602-rcs-build-aid'
 

@@ -1,4 +1,4 @@
-class SafeChute < Kosmos::Package
+class SafeChute < Kmc::Package
   title 'Safe Chute'
   url 'http://genesisrage.net/ksp/SafeChute.zip'
 

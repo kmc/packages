@@ -1,4 +1,4 @@
-class TweakScale < Kosmos::Package
+class TweakScale < Kmc::Package
   title 'TweakScale'
   url 'http://kerbal.curseforge.com/ksp-mods/220549-tweakscale'
   prerequisites 'module-manager'

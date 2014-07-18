@@ -1,4 +1,4 @@
-class NovaPunch < Kosmos::Package
+class NovaPunch < Kmc::Package
   title 'NovaPunch'
   aliases 'nova-punch'
   url 'http://www.mediafire.com/download/f79630tg10j20b9/NovaPunch2_04.zip'

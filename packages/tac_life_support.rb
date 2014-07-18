@@ -1,4 +1,4 @@
-class TACLifeSupport < Kosmos::Package
+class TACLifeSupport < Kmc::Package
   title 'TAC Life Support (WIP)'
   aliases 'tac life support', 'TACLS'
   

@@ -1,4 +1,4 @@
-class BetterAtmospheresLowDef < Kosmos::Package
+class BetterAtmospheresLowDef < Kmc::Package
   title 'Better Atmospheres - Low Definition (512 x 512)'
   aliases 'better atmospheres - low def'
   url 'https://www.dropbox.com/s/ego5nirhdutj59l/Better%20Atmospheres%20V5%20Low%20Quality.zip'
@@ -14,7 +14,7 @@ class BetterAtmospheresLowDef < Kosmos::Package
   end
 end
 
-class BetterAtmospheresMediumDef < Kosmos::Package
+class BetterAtmospheresMediumDef < Kmc::Package
   title 'Better Atmospheres - Medium Definition (1024 x 1024)'
   aliases 'better atmospheres - medium def', 'better atmospheres'
   url 'https://www.dropbox.com/s/qyw3gcdfcocvrt7/Better%20Atmospheres%20V5%20Medium%20Res.zip'
@@ -30,7 +30,7 @@ class BetterAtmospheresMediumDef < Kosmos::Package
   end
 end
 
-class BetterAtmospheresHighDef < Kosmos::Package
+class BetterAtmospheresHighDef < Kmc::Package
   title 'Better Atmospheres - High Definition (2048 x 2048)'
   aliases 'better atmospheres - high def'
   url 'https://www.dropbox.com/s/mqw1rdc5p06mmsy/Better%20Atmospheres%20V5.zip'

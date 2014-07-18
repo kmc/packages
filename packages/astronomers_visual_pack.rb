@@ -1,4 +1,4 @@
-class AstronomersVisualPackLow < Kosmos::Package
+class AstronomersVisualPackLow < Kmc::Package
   title 'Astronomer\'s Visual Pack - Lower Resolution'
   aliases 'astronomers visual pack - low res'
   url 'http://kerbal.curseforge.com/plugins/220335-astronomers-visual-pack-v3-beta'
@@ -10,7 +10,7 @@ class AstronomersVisualPackLow < Kosmos::Package
   end
 end
 
-class AstronomersVisualPackDefault < Kosmos::Package
+class AstronomersVisualPackDefault < Kmc::Package
   title 'Astronomer\'s Visual Pack - Default Resolution'
   aliases 'astronomers visual pack - default res', 'astronomers visual pack'
   url 'http://kerbal.curseforge.com/plugins/220335-astronomers-visual-pack-v3-beta'
@@ -22,7 +22,7 @@ class AstronomersVisualPackDefault < Kosmos::Package
   end
 end
 
-class AstronomersVisualPackHigher < Kosmos::Package
+class AstronomersVisualPackHigher < Kmc::Package
   title 'Astronomer\'s Visual Pack - Higher Resolution'
   aliases 'astronomers visual pack - higher res'
   url 'http://kerbal.curseforge.com/plugins/220335-astronomers-visual-pack-v3-beta'
@@ -34,7 +34,7 @@ class AstronomersVisualPackHigher < Kosmos::Package
   end
 end
 
-class AstronomersVisualPackHigh < Kosmos::Package
+class AstronomersVisualPackHigh < Kmc::Package
   title 'Astronomer\'s Visual Pack - High Resolution'
   aliases 'astronomers visual pack - high res'
   url 'http://kerbal.curseforge.com/plugins/220335-astronomers-visual-pack-v3-beta'
@@ -46,7 +46,7 @@ class AstronomersVisualPackHigh < Kosmos::Package
   end
 end
 
-class AstronomersVisualPackPushIt < Kosmos::Package
+class AstronomersVisualPackPushIt < Kmc::Package
   title 'Astronomer\'s Visual Pack - Push It To The Limit Resolution'
   aliases 'astronomers visual pack - push it to the limit res'
   url 'http://kerbal.curseforge.com/plugins/220335-astronomers-visual-pack-v3-beta'

@@ -1,4 +1,4 @@
-class ImprovedChaseCamera < Kosmos::Package
+class ImprovedChaseCamera < Kmc::Package
   title 'Improved Chase Camera'
   url 'https://dl.dropboxusercontent.com/u/103148235/ImprovedChaseCamerav1.3.1.zip'
 

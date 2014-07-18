@@ -1,4 +1,4 @@
-class RoverWheelSounds < Kosmos::Package
+class RoverWheelSounds < Kmc::Package
   title 'Rover Wheel Sounds'
   url 'http://kerbal.curseforge.com/ksp-mods/221310-rover-wheel-sounds'
 

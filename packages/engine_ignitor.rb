@@ -1,4 +1,4 @@
-class EngineIgnitor < Kosmos::Package
+class EngineIgnitor < Kmc::Package
   title 'Engine Ignitor'
   url 'https://www.dropbox.com/s/yousr4nxflld9ra/EngineIgnitor%20V3.2.zip'
 

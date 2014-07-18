@@ -1,4 +1,4 @@
-class KerbinCup < Kosmos::Package
+class KerbinCup < Kmc::Package
   title 'Kerbin Cup'
   
   url 'http://kerbal.curseforge.com/ksp-mods/221319-kerbin-cup'

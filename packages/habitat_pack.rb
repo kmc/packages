@@ -1,4 +1,4 @@
-class HabitatPack < Kosmos::Package
+class HabitatPack < Kmc::Package
   title 'Habitat Pack'
   url 'https://www.dropbox.com/s/7rfuu6ott8j5bl7/Habitat%20Pack.zip'
 

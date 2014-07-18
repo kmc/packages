@@ -1,4 +1,4 @@
-class KerbalAircraftExpansion < Kosmos::Package
+class KerbalAircraftExpansion < Kmc::Package
   title 'Kerbal Aircraft Expansion'
   aliases 'KAX'
   

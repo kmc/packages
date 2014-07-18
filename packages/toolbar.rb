@@ -1,4 +1,4 @@
-class Toolbar < Kosmos::Package
+class Toolbar < Kmc::Package
   title 'Toolbar Plugin'
   aliases 'toolbar'
   url 'http://blizzy.de/toolbar/Toolbar-1.7.3.zip'

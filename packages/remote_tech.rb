@@ -1,4 +1,4 @@
-class RemoteTech2 < Kosmos::Package
+class RemoteTech2 < Kmc::Package
   title 'Remote Tech 2'
   aliases 'RT', 'RT2', 'remotetech', 'remotetech2'
   

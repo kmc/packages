@@ -1,4 +1,4 @@
-class HullcamVDS < Kosmos::Package
+class HullcamVDS < Kmc::Package
   title 'Hullcam VDS'
   aliases 'hull camera VDS'
   

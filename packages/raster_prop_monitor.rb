@@ -1,4 +1,4 @@
-class RasterPropMonitor < Kosmos::Package
+class RasterPropMonitor < Kmc::Package
   title 'Raster Prop Monitor'
   aliases 'jsi'
   url 'http://kerbal.curseforge.com/ksp-mods/221222-rasterpropmonitor'

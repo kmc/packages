@@ -1,4 +1,4 @@
-class KerbalJointReinforcement < Kosmos::Package
+class KerbalJointReinforcement < Kmc::Package
   title 'Kerbal Joint Reinforcement'
   aliases 'kjr'
   

@@ -1,4 +1,4 @@
-class TurboNisuStockalikeParts < Kosmos::Package
+class TurboNisuStockalikeParts < Kmc::Package
   title 'Stockalike parts for useful esthetics'
   aliases 'Stockalike parts for useful aesthetics', 'TurboNisu stockalike parts', 'TurboNisu aesthetic parts pack'
   

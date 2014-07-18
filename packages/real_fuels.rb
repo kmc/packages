@@ -1,4 +1,4 @@
-class RealFuels < Kosmos::Package
+class RealFuels < Kmc::Package
   title 'Real Ruels'
   url 'https://github.com/NathanKell/ModularFuelSystem/releases/download/rf-v6.4/RealFuels_v6.4.zip'
 

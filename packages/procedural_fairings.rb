@@ -1,4 +1,4 @@
-class ProceduralFairings < Kosmos::Package
+class ProceduralFairings < Kmc::Package
   title 'Procedural Fairings'
   url 'https://github.com/e-dog/ProceduralFairings/releases/download/v3.02/ProcFairings_3.02.zip'
 

@@ -1,4 +1,4 @@
-class ThrottleControlledAvionics < Kosmos::Package
+class ThrottleControlledAvionics < Kmc::Package
   title 'Throttle Controlled Avionics'
   url 'http://kerbal.curseforge.com/plugins/220667-throttle-controlled-avionics-1-3'
 

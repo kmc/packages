@@ -1,4 +1,4 @@
-class IonEngineSoundPack < Kosmos::Package
+class IonEngineSoundPack < Kmc::Package
   title 'Ion Engine Sound Pack'
   aliases 'Ion Engine Sound'
   url 'http://kerbal.curseforge.com/ksp-mods/220940-original-ion-engine-sound-pack-0-235-arm'

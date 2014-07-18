@@ -1,4 +1,4 @@
-class KerbQuake < Kosmos::Package
+class KerbQuake < Kmc::Package
   title 'KerbQuake'
   url 'https://www.dropbox.com/s/mkz1rny3rr0iqfh/KerbQuake1.21.zip'
 

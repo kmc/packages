@@ -1,4 +1,4 @@
-class StripSymmetry < Kosmos::Package
+class StripSymmetry < Kmc::Package
   title 'StripSymmetry'
   aliases 'Strip Symmetry'
   url 'https://www.dropbox.com/s/6wjk338ni8q3pu7/StripSymmetry_1.2.zip'

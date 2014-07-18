@@ -1,4 +1,4 @@
-class GingerCorpStockalikeStationHubs < Kosmos::Package
+class GingerCorpStockalikeStationHubs < Kmc::Package
   title 'GingerCorp Station Hubs'
   url 'http://kerbal.curseforge.com/parts/220639-gingercorp-stock-alike-station-hubs'
 

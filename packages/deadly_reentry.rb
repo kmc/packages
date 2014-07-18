@@ -1,4 +1,4 @@
-class DeadlyReentry < Kosmos::Package
+class DeadlyReentry < Kmc::Package
   title 'Deadly Reentry'
   url 'https://github.com/NathanKell/DeadlyReentry/releases/download/v4.7/DeadlyReentryCont_v4.7.zip'
 

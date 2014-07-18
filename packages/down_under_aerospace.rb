@@ -1,4 +1,4 @@
-class DownUnderAerospacePartySuppliesContinued < Kosmos::Package
+class DownUnderAerospacePartySuppliesContinued < Kmc::Package
   title 'Down Under Aerospace'
   url 'https://www.mediafire.com/?jv0ow5aj5b31kij'
 

@@ -1,4 +1,4 @@
-class GlowStrips < Kosmos::Package
+class GlowStrips < Kmc::Package
   title 'GlowStrips'
   url 'http://kerbal.curseforge.com/ksp-mods/221036-glowstrips-v0-1'
 

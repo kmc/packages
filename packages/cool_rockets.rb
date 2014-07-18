@@ -1,4 +1,4 @@
-class CoolRockets < Kosmos::Package
+class CoolRockets < Kmc::Package
   title 'CoolRockets'
   url 'https://dl.dropboxusercontent.com/u/3061183/CoolRockets%200.5.zip'
 

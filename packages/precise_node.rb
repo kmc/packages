@@ -1,4 +1,4 @@
-class PreciseNode < Kosmos::Package
+class PreciseNode < Kmc::Package
   title 'Precise Node'
   aliases 'precisenode'
   url 'http://blizzy.de/precise-node/PreciseNode-0.12.zip'
