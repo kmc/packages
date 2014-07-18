@@ -1,4 +1,4 @@
-class BobCatindSovietAmericanPacks < Kosmos::Package
+class BobCatindSovietAmericanPacks < Kmc::Package
   title 'BobCat Ind Soviet-American Packs'
   url 'http://www.mediafire.com/?v75377195a0qhhv'
 

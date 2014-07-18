@@ -1,4 +1,4 @@
-class ExtraplanetaryLaunchpads < Kosmos::Package
+class ExtraplanetaryLaunchpads < Kmc::Package
   title 'Extraplanetary Launchpads'
   aliases 'extraplanetary-launchpads'
   url 'http://taniwha.org/~bill/Extraplanetary_Launchpads_v4.1.2.zip'

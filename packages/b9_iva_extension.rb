@@ -1,4 +1,4 @@
-class B9IVAExtension < Kosmos::Package
+class B9IVAExtension < Kmc::Package
   title 'B9 IVA Extension'
   aliases 'B9 crew tank internals'
   

@@ -1,4 +1,4 @@
-class ECLSS < Kosmos::Package
+class ECLSS < Kmc::Package
   title 'ECLSS Life Support'
   aliases 'eclss'
   url 'https://bitbucket.org/asmi/ksp/downloads/LifeSupportMod.1.0.15.zip'

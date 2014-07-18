@@ -1,4 +1,4 @@
-class KerbalDustExperiment < Kosmos::Package
+class KerbalDustExperiment < Kmc::Package
   title 'Kerbal Dust Experiment'
   aliases 'KDEX'
   url 'http://kerbal.curseforge.com/ksp-mods/222059-kdex'

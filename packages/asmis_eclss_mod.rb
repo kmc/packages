@@ -1,4 +1,4 @@
-class AsmisECLSSMod < Kosmos::Package
+class AsmisECLSSMod < Kmc::Package
   title 'Asmi\'s ECLSS Mod'
   url 'https://bitbucket.org/asmi/ksp/downloads/LifeSupportMod.1.0.15.zip'
 

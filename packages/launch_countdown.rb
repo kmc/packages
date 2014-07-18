@@ -1,4 +1,4 @@
-class LaunchCountDown < Kosmos::Package
+class LaunchCountDown < Kmc::Package
   title 'Launch CountDown'
   url 'http://kerbal.curseforge.com/ksp-mods/220987-athlonic-electronics-lcd-launch-countdown-v1-7-1'
 

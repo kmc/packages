@@ -1,4 +1,4 @@
-class AIESAerospace < Kosmos::Package
+class AIESAerospace < Kmc::Package
   title 'AIES Aerospace'
   url 'http://www.mediafire.com/download/c8efj64k6izx6xc/AIES_Aerospace151.zip'
 

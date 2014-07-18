@@ -1,4 +1,4 @@
-class CELSSGreenhouse < Kosmos::Package
+class CELSSGreenhouse < Kmc::Package
   title 'CELSS Greenhouse'
   url 'https://github.com/cerebrate/celss-greenhouse/releases/download/0.3-beta/LacunaGreenhouse-0.3.zip'
 

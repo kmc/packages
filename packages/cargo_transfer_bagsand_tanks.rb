@@ -1,4 +1,4 @@
-class CargoTransferBags < Kosmos::Package
+class CargoTransferBags < Kmc::Package
   title 'Cargo Transfer Bags'
   url 'http://www.mediafire.com/download/eucjkl11bkndmjd/CargoTransferBags0.7.zip'
 

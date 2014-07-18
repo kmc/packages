@@ -1,4 +1,4 @@
-class HotRockets < Kosmos::Package
+class HotRockets < Kmc::Package
   title 'HotRockets'
   aliases 'hot rockets'
   url 'http://kerbal.curseforge.com/plugins/220207-hotrockets-particle-fx-replacement'

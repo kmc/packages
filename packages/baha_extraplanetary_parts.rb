@@ -1,4 +1,4 @@
-class BahaExtraplanetaryParts < Kosmos::Package
+class BahaExtraplanetaryParts < Kmc::Package
   title 'BahamutoD\'s Drills and Parts for EL'
   aliases 'BahamutoDs drills and parts', 'el drills and parts',
     'baha extraplanetary parts'

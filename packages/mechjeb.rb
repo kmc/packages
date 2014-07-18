@@ -1,4 +1,4 @@
-class MechJeb < Kosmos::Package
+class MechJeb < Kmc::Package
   title 'MechJeb'
   url 'http://kerbal.curseforge.com/plugins/220221-mechjeb'
 

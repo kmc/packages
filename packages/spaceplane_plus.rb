@@ -1,4 +1,4 @@
-class SpacePlanePlus < Kosmos::Package
+class SpacePlanePlus < Kmc::Package
   title 'Spaceplane Plus'
   url 'https://www.dropbox.com/s/xkaelclfjzzoicn/SpaceplanePlus.zip'
 

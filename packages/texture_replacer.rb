@@ -1,4 +1,4 @@
-class TextureReplacer < Kosmos::Package
+class TextureReplacer < Kmc::Package
   title 'Texture Replacer'
   url 'http://kerbal.curseforge.com/ksp-mods/220217-texturereplacer'
 

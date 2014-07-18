@@ -1,4 +1,4 @@
-class HangarExtender < Kosmos::Package
+class HangarExtender < Kmc::Package
   title 'Hangar Extender'
   url 'http://kerbal.curseforge.com/ksp-mods/220250-hangar-extender'
 

@@ -1,4 +1,4 @@
-class UniversalStorage < Kosmos::Package
+class UniversalStorage < Kmc::Package
   title 'Universal Storage'
   url 'http://www.kingtiger.co.uk/kingtiger/wordpress/?smd_process_download=1&download_id=1478'
   prerequisites 'module-manager'
@@ -8,7 +8,7 @@ class UniversalStorage < Kosmos::Package
   end
 end
 
-class UniversalStorageKAS < Kosmos::Package
+class UniversalStorageKAS < Kmc::Package
   title 'Universal Storage - Kerbal Attachment System'
   aliases 'Universal Storage - KAS'
   url 'http://www.kingtiger.co.uk/kingtiger/wordpress/?smd_process_download=1&download_id=1544'
@@ -19,7 +19,7 @@ class UniversalStorageKAS < Kosmos::Package
   end
 end
 
-class UniversalStorageECLSS < Kosmos::Package
+class UniversalStorageECLSS < Kmc::Package
   title 'Universal Storage - ECLSS Life Support'
   aliases 'Universal Storage - ECLSS'
   url 'http://www.kingtiger.co.uk/kingtiger/wordpress/?smd_process_download=1&download_id=1480'
@@ -30,7 +30,7 @@ class UniversalStorageECLSS < Kosmos::Package
   end
 end
 
-class UniversalStoragePartCatalog < Kosmos::Package
+class UniversalStoragePartCatalog < Kmc::Package
   title 'Universal Storage - Part Catalog'
   url 'http://www.kingtiger.co.uk/kingtiger/wordpress/?smd_process_download=1&download_id=1482'
   prerequisites 'part-catalog', 'universal-storage'

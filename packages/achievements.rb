@@ -1,4 +1,4 @@
-class Achievements < Kosmos::Package
+class Achievements < Kmc::Package
   title 'Achievements'
   url 'http://blizzy.de/achievements/Achievements-1.6.0.zip'
 

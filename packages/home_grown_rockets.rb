@@ -1,4 +1,4 @@
-class HGRNewsphericalpodavailable < Kosmos::Package
+class HGRNewsphericalpodavailable < Kmc::Package
   title 'Home Grown Rocket Parts'
   aliases 'home grown rockets'
   url 'http://www.mediafire.com/download/a3tf4mucsdvu29q/HGR.zip'

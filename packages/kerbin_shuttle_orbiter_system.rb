@@ -1,4 +1,4 @@
-class KerbinShuttleOrbiterSystem < Kosmos::Package
+class KerbinShuttleOrbiterSystem < Kmc::Package
   title 'Kerbin Shuttle Orbiter System'
   aliases 'kerbin-shuttle-orbiter-system', 'kso'
   url 'http://www.mediafire.com/download/x3j4kjml2mlnxvy/KSOS_309hf.zip'
@@ -9,7 +9,7 @@ class KerbinShuttleOrbiterSystem < Kosmos::Package
   end
 end
 
-class KerbinShuttleOrbiterSystemARKSO10 < Kosmos::Package
+class KerbinShuttleOrbiterSystemARKSO10 < Kmc::Package
   title 'Kerbin Shuttle Orbiter System - AR-KSO10 Autopilot System'
   url 'http://www.mediafire.com/download/fm4yvd055555ym2/KSO_MechJeb2.zip'
   prerequisites 'kerbin-shuttle-orbiter-system', 'mechjeb'

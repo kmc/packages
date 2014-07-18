@@ -1,4 +1,4 @@
-class BetterRoveMates < Kosmos::Package
+class BetterRoveMates < Kmc::Package
   title 'Better RoveMates'
   url 'http://kerbal.curseforge.com/parts/220209-betterrovemates'
 

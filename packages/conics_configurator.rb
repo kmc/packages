@@ -1,4 +1,4 @@
-class ConicsConfigurator < Kosmos::Package
+class ConicsConfigurator < Kmc::Package
   title 'Conics Configurator'
   url 'https://www.dropbox.com/s/srju59gp5dz7m1w/ConicsConfig.zip'
 

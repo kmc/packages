@@ -1,4 +1,4 @@
-class AmbientLightAdjustment < Kosmos::Package
+class AmbientLightAdjustment < Kmc::Package
   title 'Ambient Light Adjustment'
   url 'http://blizzy.de/ambient-light/AmbientLightAdjustment-1.1.0.zip'
 

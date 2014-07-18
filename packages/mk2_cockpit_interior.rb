@@ -1,4 +1,4 @@
-class Mk2CockpitInterior < Kosmos::Package
+class Mk2CockpitInterior < Kmc::Package
   title 'Mk2 Cockpit Interior'
   aliases 'Mk2 cockpit internals'
   

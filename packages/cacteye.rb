@@ -1,4 +1,4 @@
-class Cacteye < Kosmos::Package
+class Cacteye < Kmc::Package
   title 'CactEye Telescope'
   aliases 'cacteye'
   url 'https://app.box.com/s/89skim2e3simjwmuof4c'
@@ -10,7 +10,7 @@ class Cacteye < Kosmos::Package
   end
 end
 
-class CacteyeRecompiledLatestHullcam < Kosmos::Package
+class CacteyeRecompiledLatestHullcam < Kmc::Package
   title 'CactEye Recompiled with Latest Hullcam VDS'
   url 'http://www.mediafire.com/download/iuiq2cwx0sh3124/CactEyeTelescope.dll'
 

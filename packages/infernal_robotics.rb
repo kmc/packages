@@ -1,4 +1,4 @@
-class InfernalRobotics < Kosmos::Package
+class InfernalRobotics < Kmc::Package
   title 'Infernal Robotics'
   aliases 'IR'
   

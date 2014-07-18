@@ -1,4 +1,4 @@
-class AMOKDynamicsStuffA < Kosmos::Package
+class AMOKDynamicsStuffA < Kmc::Package
   title 'AMOK Dynamics'
   url 'https://www.dropbox.com/s/ijh3obajqti1h2g/AMOK%20FuelCell%20v0.1.zip'
 

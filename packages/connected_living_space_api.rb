@@ -1,4 +1,4 @@
-class ConnectedLivingSpaceAPI < Kosmos::Package
+class ConnectedLivingSpaceAPI < Kmc::Package
   title 'Connected Living Space (API)'
   url 'https://github.com/codepoetpbowden/ConnectedLivingSpace/releases/download/v1.0.6.0/CLSv1.0.6.0.zip'
 

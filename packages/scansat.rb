@@ -1,4 +1,4 @@
-class Scansat < Kosmos::Package
+class Scansat < Kmc::Package
   title 'SCANSat'
   url 'https://github.com/S-C-A-N/SCANsat/releases/download/v6.0/SCANsat_v6.0.zip'
 
@@ -7,7 +7,7 @@ class Scansat < Kosmos::Package
   end
 end
 
-class ScanSatRpm < Kosmos::Package
+class ScanSatRpm < Kmc::Package
   title 'SCANSatRPM'
   url 'https://github.com/S-C-A-N/SCANsat/releases/download/v6.0/SCANsat_v6.0.zip'
   prerequisites 'scansat'

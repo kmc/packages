@@ -1,4 +1,4 @@
-class ModuleManager < Kosmos::Package
+class ModuleManager < Kmc::Package
   title 'ModuleManager'
   aliases 'module manager'
   url 'https://ksp.sarbian.com/jenkins/job/ModuleManager/lastBuild/artifact/jenkins-ModuleManager-36/ModuleManager-2.1.5.zip'

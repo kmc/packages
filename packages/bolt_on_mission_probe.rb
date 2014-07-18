@@ -1,4 +1,4 @@
-class BoltOnMissionProbe < Kosmos::Package
+class BoltOnMissionProbe < Kmc::Package
   title 'Bolt-On Mission Probe'
   url 'https://github.com/jinks/BOMPs/releases/download/v0.23.5/BOMPs-0.23.5.zip'
 

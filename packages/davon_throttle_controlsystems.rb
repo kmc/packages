@@ -1,4 +1,4 @@
-class DavonThrottleControlsystems < Kosmos::Package
+class DavonThrottleControlsystems < Kmc::Package
   title 'Davon Throttle Control systems'
   url 'http://kerbal.curseforge.com/plugins/220590-davon-throttle-control-systems/'
 

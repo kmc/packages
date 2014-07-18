@@ -1,4 +1,4 @@
-class FerramAerospaceResearch < Kosmos::Package
+class FerramAerospaceResearch < Kmc::Package
   title 'Ferram Aerospace Research'
   aliases 'ferram', 'far', 'ferram aerospace'
 

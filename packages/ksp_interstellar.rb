@@ -1,4 +1,4 @@
-class KSPInterstellar < Kosmos::Package
+class KSPInterstellar < Kmc::Package
   title 'KSP Interstellar'
   aliases 'interstellar'
 

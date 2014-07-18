@@ -1,4 +1,4 @@
-class DangIt < Kosmos::Package
+class DangIt < Kmc::Package
   title 'Dang It'
   url 'https://github.com/Ippo343/DangIt/releases/download/0.0.2.1/GameData.zip'
 

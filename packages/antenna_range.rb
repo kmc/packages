@@ -1,4 +1,4 @@
-class AntennaRange < Kosmos::Package
+class AntennaRange < Kmc::Package
   title 'AntennaRange'
   aliases 'antenna range'
   url 'http://ksp.hawkbats.com/AntennaRange/AntennaRange-1-3.zip'

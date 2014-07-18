@@ -1,4 +1,4 @@
-class AtmosphericSoundEnhancement < Kosmos::Package
+class AtmosphericSoundEnhancement < Kmc::Package
   title 'Atmospheric Sound Enhancement'
   url 'http://kerbal.curseforge.com/ksp-mods/221011-atmospheric-sound-enhancement'
 

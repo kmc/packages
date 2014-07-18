@@ -1,4 +1,4 @@
-class ALCORCapsule < Kosmos::Package
+class ALCORCapsule < Kmc::Package
   title 'Advanced Landing Capsule for Orbital Rendezvous'
   aliases 'ALCOR', 'ALCOR Capsule'
   url 'http://www.mediafire.com/download/7h0q0e252tge774/ALCOR_Capsule_0.9.zip'
@@ -10,7 +10,7 @@ class ALCORCapsule < Kosmos::Package
   end
 end
 
-class ALCORIVAPatch < Kosmos::Package
+class ALCORIVAPatch < Kmc::Package
   title 'ALCOR IVA Patch'
   url 'http://www.mediafire.com/download/1iwml4q0mp7dn14/ALCOR_IVA_Patch_0.9.zip'
 
@@ -19,7 +19,7 @@ class ALCORIVAPatch < Kosmos::Package
   end
 end
 
-class ALCORPropsPack < Kosmos::Package
+class ALCORPropsPack < Kmc::Package
   title 'ALCOR Props Pack'
   url 'http://www.mediafire.com/download/lpvadcbobcj7dyv/ASET_Props_1.0.1.zip'
 

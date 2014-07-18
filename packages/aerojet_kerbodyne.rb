@@ -1,4 +1,4 @@
-class AerojetKerbodyne < Kosmos::Package
+class AerojetKerbodyne < Kmc::Package
   title 'Aerojet Kerbodyne'
   url 'https://www.dropbox.com/s/369uwom0bspo1x8/AerojetKerbodyne1.1.zip'
 
