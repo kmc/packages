@@ -1,6 +1,6 @@
 class Scansat < Kmc::Package
   title 'SCANSat'
-  url 'https://github.com/S-C-A-N/SCANsat/releases/download/v6.0/SCANsat_v6.0.zip'
+  url 'https://github.com/S-C-A-N/SCANsat/releases/download/v6.1/SCANsat.v6.1.zip'
 
   def install
     merge_directory 'GameData/SCANsat', into: 'GameData'
@@ -9,7 +9,7 @@ end
 
 class ScanSatRpm < Kmc::Package
   title 'SCANSatRPM'
-  url 'https://github.com/S-C-A-N/SCANsat/releases/download/v6.0/SCANsat_v6.0.zip'
+  url 'https://github.com/S-C-A-N/SCANsat/releases/download/v6.1/SCANsat.v6.1.zip'
   prerequisites 'scansat'
 
   def install
