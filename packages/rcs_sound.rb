@@ -4,7 +4,7 @@ class RCSSound < Kmc::Package
   url 'http://kerbal.curseforge.com/ksp-mods/220521-rcs-sounds'
 
   def install
-    merge_directory 'GameData'
+    merge_directory 'RcsSounds/GameData', into: 'GameData'
   end
 end
 
