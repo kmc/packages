@@ -1,10 +1,10 @@
 class HotRockets < Kmc::Package
   title 'HotRockets'
   aliases 'hot rockets'
-  url 'http://kerbal.curseforge.com/plugins/220207-hotrockets-particle-fx-replacement'
+  url 'http://www.mediafire.com/download/grj0jgvcvl66b4i/hotrockets_7.24_nazari_launchsmoke.zip'
+  prerequisites 'module-manager'
 
   def install
-    merge_directory 'ModuleManager.2.1.0.dll', into: 'GameData'
     merge_directory 'MP_Nazari', into: 'GameData'
     merge_directory 'SmokeScreen', into: 'GameData'
   end
