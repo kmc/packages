@@ -1,9 +1,9 @@
 class ModuleManager < Kmc::Package
   title 'ModuleManager'
   aliases 'module manager'
-  url 'https://ksp.sarbian.com/jenkins/job/ModuleManager/39/artifact/jenkins-ModuleManager-39/ModuleManager-2.2.0.zip'
+  url 'https://ksp.sarbian.com/jenkins/job/ModuleManager/lastSuccessfulBuild/artifact/ModuleManager-2.2.1.zip'
 
   def install
-    merge_directory 'ModuleManager.2.2.0.dll', into: 'GameData'
+    merge_directory 'ModuleManager.2.2.1.dll', into: 'GameData'
   end
 end
