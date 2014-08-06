@@ -5,8 +5,8 @@ class AstronomersVisualPackLow < Kmc::Package
   prerequisites 'environmental visual enhancements'
 
   def install
-    merge_directory "Astronomer's Visual Pack V3 BETA/2nd Step/128 - Lower Resolution/GameData"
-    merge_directory "Astronomer's Visual Pack V3 BETA/3rd Step/GameData"
+    merge_directory "Astronomer's Visual Pack - Edge of Oblivion/2nd Step/128 - Lower Resolution/GameData"
+    merge_directory "Astronomer's Visual Pack - Edge of Oblivion/3rd Step/GameData"
   end
 end
 
@@ -17,8 +17,8 @@ class AstronomersVisualPackDefault < Kmc::Package
   prerequisites 'environmental visual enhancements'
 
   def install
-    merge_directory "Astronomer's Visual Pack V3 BETA/2nd Step/256 - Default Resolution/GameData"
-    merge_directory "Astronomer's Visual Pack V3 BETA/3rd Step/GameData"
+    merge_directory "Astronomer's Visual Pack - Edge of Oblivion/2nd Step/256 - Default Resolution/GameData"
+    merge_directory "Astronomer's Visual Pack - Edge of Oblivion/3rd Step/GameData"
   end
 end
 
@@ -29,8 +29,8 @@ class AstronomersVisualPackHigher < Kmc::Package
   prerequisites 'environmental visual enhancements'
 
   def install
-    merge_directory "Astronomer's Visual Pack V3 BETA/2nd Step/512 - Higher Resolution (recommended)/GameData"
-    merge_directory "Astronomer's Visual Pack V3 BETA/3rd Step/GameData"
+    merge_directory "Astronomer's Visual Pack - Edge of Oblivion/2nd Step/512 - Higher Resolution (recommended)/GameData"
+    merge_directory "Astronomer's Visual Pack - Edge of Oblivion/3rd Step/GameData"
   end
 end
 
@@ -41,8 +41,8 @@ class AstronomersVisualPackHigh < Kmc::Package
   prerequisites 'environmental visual enhancements'
 
   def install
-    merge_directory "Astronomer's Visual Pack V3 BETA/2nd Step/1024 - High Resolution/GameData"
-    merge_directory "Astronomer's Visual Pack V3 BETA/3rd Step/GameData"
+    merge_directory "Astronomer's Visual Pack - Edge of Oblivion/2nd Step/1024 - High Resolution/GameData"
+    merge_directory "Astronomer's Visual Pack - Edge of Oblivion/3rd Step/GameData"
   end
 end
 
@@ -53,7 +53,7 @@ class AstronomersVisualPackPushIt < Kmc::Package
   prerequisites 'environmental visual enhancements'
 
   def install
-    merge_directory "Astronomer's Visual Pack V3 BETA/2nd Step/1500 - PushItToTheLimit Resolution/GameData"
-    merge_directory "Astronomer's Visual Pack V3 BETA/3rd Step/GameData"
+    merge_directory "Astronomer's Visual Pack - Edge of Oblivion/2nd Step/1500 - PushItToTheLimit Resolution/GameData"
+    merge_directory "Astronomer's Visual Pack - Edge of Oblivion/3rd Step/GameData"
   end
 end
