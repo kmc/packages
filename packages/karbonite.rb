@@ -1,6 +1,6 @@
 class Karbonite < Kmc::Package
   title 'Karbonite'
-  url 'https://www.dropbox.com/sh/1fsuzvl35s2gppt/AACtfZr6ez3lyJwTd4IsqkAya/Karbonite_0.1.2.zip'
+  url 'https://github.com/BobPalmer/Karbonite/releases/download/0.2.1/Karbonite_0.2.1.zip'
   prerequisites 'module-manager'
 
   def install
