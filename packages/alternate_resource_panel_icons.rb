@@ -4,6 +4,6 @@ class AlternateResourcePanelIcons < Kmc::Package
   url 'https://github.com/Olympic1/ARP_Icons_MKS/archive/master.zip'
 
   def install
-    merge_directory 'ARP_Icons_MKS/GameData'
+    merge_directory 'ARP_Icons_MKS-master/Output/ARP_Icons_MKS/GameData'
   end
 end
