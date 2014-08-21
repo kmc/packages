@@ -16,6 +16,6 @@ class SpacePlanePlusFirespitterDLL < Kmc::Package
   do_not_unzip!
 
   def install
-    merge_directory 'Firespitter.dll', into: 'GameData/Firespitter/Plugins/Firespitter.dll'
+    merge_directory 'Firespitter.dll', into: 'GameData/Firespitter/Plugins'
   end
 end
