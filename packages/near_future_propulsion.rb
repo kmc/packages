@@ -1,6 +1,6 @@
 class NearFuturePropulsion < Kmc::Package
   title 'Near Future Propulsion'
-  url 'https://nabaal.net/files/ksp/nertea/NearFuturePropulsion0_1_1.zip'
+  url 'http://kerbal.curseforge.com/ksp-mods/220670-near-future-propulsion-v0-1-0'
 
   def install
     merge_directory 'GameData'
@@ -10,10 +10,10 @@ end
 class NearFuturePropulsionLowDef < Kmc::Package
   title 'Near Future Propulsion - Low Definition (512 x 512)'
   aliases 'near future propulsion - low def'
-  url 'https://nabaal.net/files/ksp/nertea/NearFuturePropulsion0_1_1.zip'
+  url 'http://kerbal.curseforge.com/ksp-mods/220670-near-future-propulsion-v0-1-0'
 
   def install
     merge_directory 'GameData'
-    merge_directory '_low/GameData/NearFuture', into: 'GameData'
+    merge_directory '_low/GameData/NearFuturePropulsion', into: 'GameData'
   end
 end
