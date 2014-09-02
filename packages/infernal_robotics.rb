@@ -1,8 +1,9 @@
 class InfernalRobotics < Kmc::Package
   title 'Infernal Robotics'
   aliases 'IR'
+  prerequisites 'tweakscale'
   
-  url 'http://www.mediafire.com/download/s2dt1etqquxti17/InfernalRobotics0.15d.zip'
+  url 'http://kerbal.curseforge.com/ksp-mods/220267-magic-smoke-industries-infernal-robotics-v0-14'
 
   def install
     merge_directory 'GameData'
