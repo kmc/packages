@@ -19,6 +19,17 @@ class UniversalStorageKAS < Kmc::Package
   end
 end
 
+class UniversalStorageTACLF < Kmc::Package
+  title 'Universal Storage - TAC Life Support'
+  aliases 'Universal Storage - TACLS'
+  url 'http://www.kingtiger.co.uk/kingtiger/wordpress/?smd_process_download=1&download_id=1650'
+  prerequisites 'tls', 'universal-storage'
+
+  def install
+    merge_directory 'US_TAC', into: 'GameData'
+  end
+end
+
 class UniversalStorageECLSS < Kmc::Package
   title 'Universal Storage - ECLSS Life Support'
   aliases 'Universal Storage - ECLSS'
