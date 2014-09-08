@@ -1,6 +1,6 @@
 class ImprovedChaseCamera < Kmc::Package
   title 'Improved Chase Camera'
-  url 'https://dl.dropboxusercontent.com/u/103148235/ImprovedChaseCamerav1.3.1.zip'
+  url 'http://kerbal.curseforge.com/ksp-mods/222680-improved-chase-camera-v1-4-0'
 
   def install
    merge_directory 'ImprovedChaseCamera', into: 'GameData'
